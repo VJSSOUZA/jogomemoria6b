@@ -159,7 +159,8 @@ function toggleEditSection() {
 
 // Função para exibir os autores
 function showAuthors() {
-    alert("Jogo desenvolvido por Lucas Souza.");
+        alert("Alunos: Vitor, Isaac, João G. Kenji, Miguel F. e Miguel K.\nColégio VIP - 6º B");
+
 }
 
 // Inicializa o editor de palavras na primeira carga
