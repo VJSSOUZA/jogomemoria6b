@@ -159,7 +159,7 @@ function toggleEditSection() {
 
 // Função para exibir os autores
 function showAuthors() {
-        alert("Alunos: Vitor, Isaac, João G. Kenji, Miguel F. e Miguel K.\nColégio VIP - 6º B");
+        alert("Alunos: Vitor, Isaac, João G. Keiji, Miguel F. e Miguel K.\nColégio VIP - 6º B");
 
 }
 
